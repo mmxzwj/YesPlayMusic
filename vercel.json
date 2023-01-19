@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-steel-chi.vercel.app/:match*"
+      "destination": "https://m.keqing.cf/:match*"
     }
   ]
 }
